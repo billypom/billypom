@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Billy. I like music, racing games, and code!
+
+- 👩‍💻 I’m currently working on: matchmaking applications for the Mario Kart 8 Deluxe 200cc Community
+- 🌱 Languages I want to learn: Rust (for integration with Python), Lua (for Renoise scripting), C++ (for creating VSTs)
+- 💻 My websites: https://peng2n.com & https://200-lounge.com
+- 📫 How to reach me: mail@peng2n.com
+
 <!--
 **billypom/billypom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +18,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
