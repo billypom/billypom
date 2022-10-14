@@ -3,7 +3,7 @@
 i'm billy. i like music, racing games, and code!
 
 - 👩‍💻 i’m currently working on: matchmaking applications for the Mario Kart 8 Deluxe 200cc Community
-- 🌱 languages i want to learn: Rust (for integration with Python), Lua (for Renoise scripting), C++ (for creating VSTs)
+- 🌱 languages i want to learn: `rust` (for integration with Python), `lua` (for Renoise scripting), `c++` (i want to make a VST or a DS game)
 - 💻 my websites: https://peng2n.com & https://200-lounge.com
 - 📫 how to reach me: mail@peng2n.com
 
