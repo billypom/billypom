@@ -1,6 +1,6 @@
 ### hi 👋
 
-i'm billy. i like music, racing games, and code!
+i'm billy. i like music, drawing, video games, and code!
 
 - 👩‍💻 i’m currently working on: matchmaking applications for the Mario Kart 8 Deluxe 200cc Community
 - 🌱 languages i want to learn: `rust` (for integration with Python), `lua` (for Renoise scripting), `c++` (i want to make a VST or a DS game)
