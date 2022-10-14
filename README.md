@@ -6,10 +6,11 @@ i'm billy. i create 🐍 python applications, 💾 relational databases, and �
 - ERP integrated data analysis tools for steel processing facilities
 - Mario Kart matchmaking applications
 
-🌱 I want to learn: 
-- infrastructure as code - `docker` & `kubernetes`
-- robust languages - `rust` & `c++`
-- more python! - `machine learning` and `AI` interest me
+🌱 I want to:
+- design beautiful and fast database applications to enhance user experience
+- learn about infrastructure as code - `docker` & `kubernetes`
+- get acclimated with other languages - `rust`, `c++`, `lua`
+- improve my python skills! - `machine learning` and `AI` interest me
 
 💻 My websites:
 - https://peng2n.com
