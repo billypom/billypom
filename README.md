@@ -1,11 +1,19 @@
 ### hi 👋
 
-i'm billy. i like music, drawing, video games, and code!
+i'm billy. i create 🐍 python applications, 💾 relational databases, and 🖥️ responsive websites
 
-- 👩‍💻 i’m currently working on: matchmaking applications for the Mario Kart 8 Deluxe 200cc Community
-- 🌱 languages i want to learn: `rust` (for integration with Python), `lua` (for Renoise scripting), `c++` (i want to make a VST or a DS game)
-- 💻 my websites: https://peng2n.com & https://200-lounge.com
-- 📫 how to reach me: mail@peng2n.com
+👩‍💻 Currently working on:
+- ERP integrated data analysis tools for steel processing facilities
+- Mario Kart matchmaking applications
+
+🌱 I want to learn: 
+- infrastructure as code - `docker` & `kubernetes`
+- robust languages - `rust` & `c++`
+- more python - namely `machine learning` and `AI`
+
+💻 My websites:
+- https://peng2n.com
+- https://200-lounge.com
 
 <!--
 **billypom/billypom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
