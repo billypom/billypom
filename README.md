@@ -2,17 +2,17 @@
 
 i'm billy. i create 🐍 python applications, 💾 relational databases, and 🖥️ responsive websites
 
-👩‍💻 Currently working on:
+##👩‍💻 Currently working on:
 - ERP integrated data analysis tools for steel processing facilities
 - Mario Kart matchmaking applications
 
-🌱 I want to:
+##🌱 I want to:
 - design beautiful and fast database applications to enhance user experiences
 - learn about infrastructure as code - `docker` & `kubernetes`
 - get acclimated with other languages - `rust`, `c++`, `lua`
 - improve my python skills! - `machine learning` and `AI` interest me
 
-💻 My websites:
+##💻 My websites:
 - https://peng2n.com
 - https://200-lounge.com
 
