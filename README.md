@@ -7,7 +7,7 @@ i'm billy. i create 🐍 python applications, 💾 relational databases, and �
 - Mario Kart matchmaking applications
 
 ## 🌱 I want to:
-- design beautiful and fast database applications to enhance user experiences
+- design fast databases and beautiful user-facing applications
 - learn about infrastructure as code - `docker` & `kubernetes`
 - get acclimated with other languages - `rust`, `c++`, `lua`
 - improve my python skills! - `machine learning` and `AI` interest me
