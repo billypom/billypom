@@ -9,7 +9,7 @@ i'm billy. i create 🐍 python applications, 💾 relational databases, and �
 🌱 I want to learn: 
 - infrastructure as code - `docker` & `kubernetes`
 - robust languages - `rust` & `c++`
-- more python - namely `machine learning` and `AI`
+- more python! - `machine learning` and `AI` interest me
 
 💻 My websites:
 - https://peng2n.com
