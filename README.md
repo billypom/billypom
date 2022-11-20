@@ -13,7 +13,7 @@ i'm billy. i create 🐍 python applications, 💾 relational databases, and �
 - improve my python skills! - `machine learning` and `AI` interest me
 
 ## 💻 My websites:
-- https://peng2n.com
+- https://pomerani.com
 - https://200-lounge.com
 
 <!--
