@@ -3,8 +3,8 @@
 i'm billy. i create 🐍 python applications, 💾 relational databases, and 🖥️ responsive websites
 
 ## 👩‍💻 Currently working on:
-- ERP integrated data analysis tools for steel processing facilities
-- Mario Kart matchmaking applications
+- ERP integrated data analysis tools
+- Mario Kart community matchmaking applications
 
 ## 🌱 I want to:
 - support communities with strong backend infrastructure and beautiful user-facing applications
