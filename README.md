@@ -12,7 +12,7 @@ i create 🐍 python applications, 💾 relational databases, 🖥️ responsive
 ## 🌱 i want to:
 - create beautiful UI, intuitive UX, and fast databases
 - start using infrastructure as code - `docker` & `kubernetes`
-- combine renoise and blender to generate visuals based on commands and note data
+- hook renoise and blender together to generate visuals based on note data
 
 ## 💻 websites i work on:
 - https://200-lounge.com
