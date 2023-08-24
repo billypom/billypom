@@ -2,7 +2,7 @@
 
 i'm billy. i am a digital fusion musician and self-motivated developer.
 
-i create 🐍 python applications, 💾 relational databases, 🖥️ responsive websites, and 🎹 video game music :catjam: 🐈
+i create 🐍 python applications, 💾 relational databases, 🖥️ responsive websites, and 🎹 video game music
 
 ## 👩‍💻 currently working on:
 - erp integrated data analysis tools
