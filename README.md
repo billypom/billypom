@@ -2,21 +2,21 @@
 
 i'm billy. i create 🐍 python applications, 💾 relational databases, and 🖥️ responsive websites
 
-## 👩‍💻 Currently working on:
-- ERP integrated data analysis tools
-- Mario Kart community matchmaking applications
+## 👩‍💻 currently working on:
+- erp integrated data analysis tools
+- mario kart community matchmaking applications
+- web-based media streaming and file serving
 
-## 🌱 I want to:
-- support communities with strong backend infrastructure and beautiful user-facing applications
-- learn about infrastructure as code - `docker` & `kubernetes`
-- get acclimated with other languages - `rust`, `c#`, `lua`
-- improve my js & python skills!
+## 🌱 i want to:
+- create beautiful UI, intuitive UX, and fast databases
+- start using infrastructure as code - `docker` & `kubernetes`
+- combine renoise and blender to generate visuals based on commands and note data
 
-## 💻 Websites I work on:
-- https://billypom.com
-- https://pomerani.com
+## 💻 websites i work on:
 - https://200-lounge.com
-- https://cuppa.games
+- https://cuppagames.com
+- https://pomerani.com
+- https://billypom.com
 
 <!--
 **billypom/billypom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
