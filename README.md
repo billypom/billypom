@@ -1,6 +1,6 @@
 ### hi 👋
 
-i'm billy. i am a digital fusion musician and self-motivated developer.
+i'm billy. 
 
 i create 🐍 python applications, 💾 relational databases, 🖥️ responsive websites, and 🎹 video game music
 
