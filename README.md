@@ -2,7 +2,7 @@
 
 i'm billy. 
 
-i create 🐍 python applications, 💾 relational databases, 🖥️ responsive websites, and 🎹 video game music
+i create 🐍 python applications, 💾 relational databases, and 🖥️ responsive websites
 
 ## 👩‍💻 currently working on:
 - erp integrated data analysis tools
