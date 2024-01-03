@@ -1,20 +1,19 @@
-### hi 👋
+### Hi 👋
 
-i'm billy. 
+I'm billy. 
 
-i create 🐍 python applications, 💾 relational databases, and 🖥️ responsive websites
+I create IT solutions, relational databases, and responsive web applications
 
-## 👩‍💻 currently working on:
-- erp integrated data analysis tools
-- mario kart community matchmaking applications
-- web-based media streaming and file serving
+## 👩‍💻 Currently working on:
+- ERP integrated data analysis tooling
+- Mario Kart matchmaking applications
+- Web-based media streaming and file serving
 
-## 🌱 i want to:
-- create beautiful UI, intuitive UX, and fast databases
-- start using infrastructure as code - `docker` & `kubernetes`
-- hook renoise and blender together to generate visuals based on note data
+## 🌱 I’m currently learning:
+- Rust
+- Python Qt5
 
-## 💻 websites i work on:
+## 💻 Websites I created:
 - https://200-lounge.com
 - https://cuppagames.com
 - https://pomerani.com
