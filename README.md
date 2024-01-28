@@ -16,7 +16,6 @@ I create IT solutions, relational databases, and responsive web applications
 ## 💻 Websites I created:
 - https://200-lounge.com
 - https://cuppagames.com
-- https://pomerani.com
 - https://billypom.com
 
 <!--
