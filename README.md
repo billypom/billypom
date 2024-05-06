@@ -1,9 +1,7 @@
 ### hi 👋
 
 - i am billy
-- i work in steel manufacturing as an it software engineer
-- this github stores my open personal projects
-- pomeranian is awesome
+- this github page stores my open personal projects
 
 ## 💻 web:
 - https://billypom.com
