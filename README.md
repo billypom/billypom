@@ -1,13 +1,5 @@
 ### hi 👋
 
-- i am billy
-- this github page stores my open personal projects
-
-## 💻 web:
-- https://billypom.com
-- https://cuppagames.com
-- https://200-lounge.com
-
 
 <!--
 **billypom/billypom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
